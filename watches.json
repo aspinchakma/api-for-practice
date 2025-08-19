@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner Date",
+    "brand": "Rolex",
+    "description": "Iconic Swiss luxury dive watch with 300m water resistance and Oystersteel case.",
+    "isSoldOut": false,
+    "price": 13950,
+    "soldNumber": 1200
+  },
+  {
+    "id": 2,
+    "name": "Omega Speedmaster Moonwatch",
+    "brand": "Omega",
+    "description": "Legendary chronograph, the first watch worn on the moon. Manual-winding movement.",
+    "isSoldOut": false,
+    "price": 6700,
+    "soldNumber": 980
+  },
+  {
+    "id": 3,
+    "name": "Tag Heuer Carrera Chronograph",
+    "brand": "Tag Heuer",
+    "description": "Sporty chronograph inspired by motor racing, automatic movement, 44mm case.",
+    "isSoldOut": false,
+    "price": 5950,
+    "soldNumber": 670
+  },
+  {
+    "id": 4,
+    "name": "Casio G-Shock GA2100",
+    "brand": "Casio",
+    "description": "Durable G-Shock watch with carbon core guard, shock resistance, and 200m water resistance.",
+    "isSoldOut": false,
+    "price": 99,
+    "soldNumber": 14500
+  },
+  {
+    "id": 5,
+    "name": "Seiko Prospex Diver's 200M",
+    "brand": "Seiko",
+    "description": "Professional-grade diver’s watch with automatic movement and 200m water resistance.",
+    "isSoldOut": true,
+    "price": 495,
+    "soldNumber": 5200
+  },
+  {
+    "id": 6,
+    "name": "Citizen Eco-Drive Chronograph",
+    "brand": "Citizen",
+    "description": "Solar-powered chronograph watch with stainless steel case and 100m water resistance.",
+    "isSoldOut": false,
+    "price": 325,
+    "soldNumber": 4500
+  },
+  {
+    "id": 7,
+    "name": "Fossil Grant Chronograph",
+    "brand": "Fossil",
+    "description": "Classic chronograph with Roman numeral markers and leather strap.",
+    "isSoldOut": false,
+    "price": 159,
+    "soldNumber": 8700
+  },
+  {
+    "id": 8,
+    "name": "Timex Expedition Scout",
+    "brand": "Timex",
+    "description": "Durable field watch with Indiglo light-up dial and water resistance up to 50m.",
+    "isSoldOut": false,
+    "price": 59,
+    "soldNumber": 13400
+  },
+  {
+    "id": 9,
+    "name": "Garmin Forerunner 955",
+    "brand": "Garmin",
+    "description": "GPS running smartwatch with training readiness and advanced performance metrics.",
+    "isSoldOut": false,
+    "price": 499,
+    "soldNumber": 2100
+  },
+  {
+    "id": 10,
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "description": "Smartwatch with advanced health tracking, Always-On Retina display, and fitness features.",
+    "isSoldOut": false,
+    "price": 399,
+    "soldNumber": 50000
+  },
+  {
+    "id": 11,
+    "name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "description": "Smartwatch with Wear OS, heart rate monitoring, and AMOLED display.",
+    "isSoldOut": false,
+    "price": 349,
+    "soldNumber": 22000
+  },
+  {
+    "id": 12,
+    "name": "Tissot PRX Powermatic 80",
+    "brand": "Tissot",
+    "description": "Automatic watch with 80-hour power reserve and integrated bracelet.",
+    "isSoldOut": false,
+    "price": 650,
+    "soldNumber": 3900
+  },
+  {
+    "id": 13,
+    "name": "Hamilton Khaki Field Mechanical",
+    "brand": "Hamilton",
+    "description": "Military-inspired manual-winding watch with rugged field design.",
+    "isSoldOut": false,
+    "price": 495,
+    "soldNumber": 2800
+  },
+  {
+    "id": 14,
+    "name": "Breitling Navitimer B01",
+    "brand": "Breitling",
+    "description": "Aviation chronograph with iconic slide rule bezel and automatic movement.",
+    "isSoldOut": false,
+    "price": 9500,
+    "soldNumber": 1100
+  },
+  {
+    "id": 15,
+    "name": "Longines HydroConquest",
+    "brand": "Longines",
+    "description": "Luxury Swiss dive watch with automatic movement and ceramic bezel.",
+    "isSoldOut": false,
+    "price": 1250,
+    "soldNumber": 2400
+  },
+  {
+    "id": 16,
+    "name": "Oris Aquis Date",
+    "brand": "Oris",
+    "description": "Swiss-made dive watch with automatic movement and 300m water resistance.",
+    "isSoldOut": false,
+    "price": 2200,
+    "soldNumber": 1500
+  },
+  {
+    "id": 17,
+    "name": "Panerai Luminor Marina",
+    "brand": "Panerai",
+    "description": "Italian luxury dive watch with cushion case and 72-hour power reserve.",
+    "isSoldOut": false,
+    "price": 8900,
+    "soldNumber": 800
+  },
+  {
+    "id": 18,
+    "name": "Hublot Big Bang Unico",
+    "brand": "Hublot",
+    "description": "Bold chronograph watch with skeleton dial and modern design.",
+    "isSoldOut": true,
+    "price": 21000,
+    "soldNumber": 500
+  },
+  {
+    "id": 19,
+    "name": "Patek Philippe Nautilus",
+    "brand": "Patek Philippe",
+    "description": "Luxury sports watch with iconic porthole design and automatic movement.",
+    "isSoldOut": true,
+    "price": 35000,
+    "soldNumber": 300
+  },
+  {
+    "id": 20,
+    "name": "Audemars Piguet Royal Oak",
+    "brand": "Audemars Piguet",
+    "description": "High-end Swiss sports watch with octagonal bezel and integrated bracelet.",
+    "isSoldOut": true,
+    "price": 42000,
+    "soldNumber": 200
+  },
+  {
+    "id": 21,
+    "name": "Richard Mille RM 11-03",
+    "brand": "Richard Mille",
+    "description": "Ultra-luxury watch with skeleton dial and advanced movement technology.",
+    "isSoldOut": true,
+    "price": 185000,
+    "soldNumber": 50
+  },
+  {
+    "id": 22,
+    "name": "Swatch Big Bold Jelly",
+    "brand": "Swatch",
+    "description": "Trendy and colorful transparent plastic watch with quartz movement.",
+    "isSoldOut": false,
+    "price": 95,
+    "soldNumber": 8700
+  },
+  {
+    "id": 23,
+    "name": "Movado Museum Classic",
+    "brand": "Movado",
+    "description": "Minimalist Swiss watch with iconic single-dot dial.",
+    "isSoldOut": false,
+    "price": 595,
+    "soldNumber": 1700
+  },
+  {
+    "id": 24,
+    "name": "Michael Kors Lexington Chronograph",
+    "brand": "Michael Kors",
+    "description": "Fashion chronograph watch with stainless steel bracelet.",
+    "isSoldOut": false,
+    "price": 275,
+    "soldNumber": 3500
+  },
+  {
+    "id": 25,
+    "name": "Daniel Wellington Classic Petite",
+    "brand": "Daniel Wellington",
+    "description": "Slim minimalist watch with interchangeable NATO or leather straps.",
+    "isSoldOut": false,
+    "price": 179,
+    "soldNumber": 6400
+  },
+  {
+    "id": 26,
+    "name": "Bulova Precisionist",
+    "brand": "Bulova",
+    "description": "High-accuracy quartz watch with continuous-sweep second hand.",
+    "isSoldOut": false,
+    "price": 450,
+    "soldNumber": 2100
+  },
+  {
+    "id": 27,
+    "name": "Rado Captain Cook",
+    "brand": "Rado",
+    "description": "Swiss ceramic dive watch with vintage-inspired design.",
+    "isSoldOut": false,
+    "price": 2200,
+    "soldNumber": 800
+  },
+  {
+    "id": 28,
+    "name": "Grand Seiko Snowflake",
+    "brand": "Grand Seiko",
+    "description": "Luxury Japanese watch with Spring Drive movement and textured white dial.",
+    "isSoldOut": false,
+    "price": 6800,
+    "soldNumber": 700
+  },
+  {
+    "id": 29,
+    "name": "Orient Bambino V4",
+    "brand": "Orient",
+    "description": "Affordable automatic dress watch with domed crystal and classic design.",
+    "isSoldOut": false,
+    "price": 150,
+    "soldNumber": 9200
+  },
+  {
+    "id": 30,
+    "name": "Montblanc 1858 Automatic",
+    "brand": "Montblanc",
+    "description": "Swiss luxury watch inspired by mountain exploration with vintage styling.",
+    "isSoldOut": false,
+    "price": 3100,
+    "soldNumber": 600
+  }
+]
