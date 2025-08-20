@@ -7,7 +7,7 @@
     "postedDate": "2025-08-01",
     "title": "Getting Started with React",
     "hashtags": ["#react", "#javascript", "#frontend"],
-    "readingTime": "6 min read",
+    "readingTime": 6,
     "description": "React is one of the most popular libraries for building user interfaces..."
   },
   {
@@ -18,7 +18,7 @@
     "postedDate": "2025-08-02",
     "title": "Mastering Git & GitHub",
     "hashtags": ["#git", "#github", "#versioncontrol"],
-    "readingTime": "7 min read",
+    "readingTime": 7,
     "description": "Version control is the backbone of modern software development..."
   },
   {
@@ -29,7 +29,7 @@
     "postedDate": "2025-08-03",
     "title": "Exploring Node.js",
     "hashtags": ["#nodejs", "#backend", "#javascript"],
-    "readingTime": "6 min read",
+    "readingTime": 6,
     "description": "Node.js has revolutionized backend development by allowing developers..."
   },
   {
@@ -40,7 +40,7 @@
     "postedDate": "2025-08-04",
     "title": "Understanding REST APIs",
     "hashtags": ["#api", "#rest", "#backend"],
-    "readingTime": "7 min read",
+    "readingTime": 7,
     "description": "APIs are the bridge between different applications and services..."
   },
   {
@@ -51,7 +51,7 @@
     "postedDate": "2025-08-05",
     "title": "CSS Grid vs Flexbox",
     "hashtags": ["#css", "#frontend", "#webdesign"],
-    "readingTime": "5 min read",
+    "readingTime": 5,
     "description": "When it comes to layout in modern web design, two powerful tools..."
   },
   {
@@ -62,7 +62,7 @@
     "postedDate": "2025-08-06",
     "title": "Introduction to TypeScript",
     "hashtags": ["#typescript", "#javascript", "#programming"],
-    "readingTime": "6 min read",
+    "readingTime": 6,
     "description": "TypeScript is a superset of JavaScript that introduces static typing..."
   },
   {
@@ -73,7 +73,7 @@
     "postedDate": "2025-08-07",
     "title": "Database Basics with MongoDB",
     "hashtags": ["#mongodb", "#database", "#backend"],
-    "readingTime": "8 min read",
+    "readingTime": 8,
     "description": "Databases are at the heart of almost every application. In this article..."
   },
   {
@@ -84,7 +84,7 @@
     "postedDate": "2025-08-08",
     "title": "Building Responsive Websites",
     "hashtags": ["#responsive", "#css", "#frontend"],
-    "readingTime": "6 min read",
+    "readingTime": 6,
     "description": "Responsive design is essential in today’s multi-device world..."
   },
   {
@@ -95,7 +95,7 @@
     "postedDate": "2025-08-09",
     "title": "Python for Beginners",
     "hashtags": ["#python", "#beginners", "#programming"],
-    "readingTime": "7 min read",
+    "readingTime": 7,
     "description": "Python is one of the most beginner-friendly programming languages..."
   },
   {
@@ -106,7 +106,7 @@
     "postedDate": "2025-08-10",
     "title": "The Future of AI in Programming",
     "hashtags": ["#ai", "#machinelearning", "#futuretech"],
-    "readingTime": "8 min read",
+    "readingTime": 8,
     "description": "Artificial Intelligence is rapidly changing the landscape of technology..."
   },
   {
@@ -117,7 +117,7 @@
     "postedDate": "2025-08-11",
     "title": "Understanding Docker and Containers",
     "hashtags": ["#docker", "#devops", "#containers"],
-    "readingTime": "7 min read",
+    "readingTime": 7,
     "description": "Docker has become a cornerstone of modern DevOps practices by simplifying application deployment and scaling..."
   },
   {
@@ -128,7 +128,7 @@
     "postedDate": "2025-08-12",
     "title": "Kubernetes for Beginners",
     "hashtags": ["#kubernetes", "#devops", "#cloud"],
-    "readingTime": "9 min read",
+    "readingTime": 9,
     "description": "Kubernetes is an open-source platform designed to automate deploying, scaling, and operating containerized applications..."
   }
 ]
