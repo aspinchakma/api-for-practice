@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "coverPhoto": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*b_O7EmNJLC3SyM4luJL1Eg.png",
+    "authorImage": "https://i.pravatar.cc/150?img=1",
+    "authorName": "John Doe",
+    "postedDate": "2025-08-01",
+    "title": "Getting Started with React",
+    "hashtags": ["#react", "#javascript", "#frontend"],
+    "readingTime": "6 min read",
+    "description": "React is one of the most popular libraries for building user interfaces..."
+  },
+  {
+    "id": 2,
+    "coverPhoto": "https://www.javedali.net/post/intro-git-github/featured.jpg",
+    "authorImage": "https://i.pravatar.cc/150?img=2",
+    "authorName": "Sarah Lee",
+    "postedDate": "2025-08-02",
+    "title": "Mastering Git & GitHub",
+    "hashtags": ["#git", "#github", "#versioncontrol"],
+    "readingTime": "7 min read",
+    "description": "Version control is the backbone of modern software development..."
+  },
+  {
+    "id": 3,
+    "coverPhoto": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-0CrH0q2CH8QwDVbAMUgHQ.jpeg",
+    "authorImage": "https://i.pravatar.cc/150?img=3",
+    "authorName": "Michael Smith",
+    "postedDate": "2025-08-03",
+    "title": "Exploring Node.js",
+    "hashtags": ["#nodejs", "#backend", "#javascript"],
+    "readingTime": "6 min read",
+    "description": "Node.js has revolutionized backend development by allowing developers..."
+  },
+  {
+    "id": 4,
+    "coverPhoto": "https://cdn.hashnode.com/res/hashnode/image/upload/v1592618762538/YD32mexLz.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+    "authorImage": "https://i.pravatar.cc/150?img=4",
+    "authorName": "Emily Johnson",
+    "postedDate": "2025-08-04",
+    "title": "Understanding REST APIs",
+    "hashtags": ["#api", "#rest", "#backend"],
+    "readingTime": "7 min read",
+    "description": "APIs are the bridge between different applications and services..."
+  },
+  {
+    "id": 5,
+    "coverPhoto": "https://blog.nashtechglobal.com/wp-content/uploads/2023/09/download-1-3.png",
+    "authorImage": "https://i.pravatar.cc/150?img=5",
+    "authorName": "David Brown",
+    "postedDate": "2025-08-05",
+    "title": "CSS Grid vs Flexbox",
+    "hashtags": ["#css", "#frontend", "#webdesign"],
+    "readingTime": "5 min read",
+    "description": "When it comes to layout in modern web design, two powerful tools..."
+  },
+  {
+    "id": 6,
+    "coverPhoto": "https://cdn.hashnode.com/res/hashnode/image/upload/v1673516184719/42ba3fbe-c592-4c63-ba76-5f874d5e57a4.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+    "authorImage": "https://i.pravatar.cc/150?img=6",
+    "authorName": "Sophia Williams",
+    "postedDate": "2025-08-06",
+    "title": "Introduction to TypeScript",
+    "hashtags": ["#typescript", "#javascript", "#programming"],
+    "readingTime": "6 min read",
+    "description": "TypeScript is a superset of JavaScript that introduces static typing..."
+  },
+  {
+    "id": 7,
+    "coverPhoto": "https://exatosoftware.com/wp-content/uploads/2024/11/22-1024x576-1.webp",
+    "authorImage": "https://i.pravatar.cc/150?img=7",
+    "authorName": "James Taylor",
+    "postedDate": "2025-08-07",
+    "title": "Database Basics with MongoDB",
+    "hashtags": ["#mongodb", "#database", "#backend"],
+    "readingTime": "8 min read",
+    "description": "Databases are at the heart of almost every application. In this article..."
+  },
+  {
+    "id": 8,
+    "coverPhoto": "https://www.hostgator.com/blog/wp-content/uploads/2014/05/responsive-web-design-01.jpg",
+    "authorImage": "https://i.pravatar.cc/150?img=8",
+    "authorName": "Olivia Martinez",
+    "postedDate": "2025-08-08",
+    "title": "Building Responsive Websites",
+    "hashtags": ["#responsive", "#css", "#frontend"],
+    "readingTime": "6 min read",
+    "description": "Responsive design is essential in today’s multi-device world..."
+  },
+  {
+    "id": 9,
+    "coverPhoto": "https://i.ytimg.com/vi/s3KhqPjBPaQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU0jwn4_Bp29UdCDMGlhDEOjVsZA",
+    "authorImage": "https://i.pravatar.cc/150?img=9",
+    "authorName": "William Anderson",
+    "postedDate": "2025-08-09",
+    "title": "Python for Beginners",
+    "hashtags": ["#python", "#beginners", "#programming"],
+    "readingTime": "7 min read",
+    "description": "Python is one of the most beginner-friendly programming languages..."
+  },
+  {
+    "id": 10,
+    "coverPhoto": "https://theonetechnologies.com/posts/files/aec5d4f4-ae18-45db-899a-bf3e4556ad8e.png",
+    "authorImage": "https://i.pravatar.cc/150?img=10",
+    "authorName": "Sophia Carter",
+    "postedDate": "2025-08-10",
+    "title": "The Future of AI in Programming",
+    "hashtags": ["#ai", "#machinelearning", "#futuretech"],
+    "readingTime": "8 min read",
+    "description": "Artificial Intelligence is rapidly changing the landscape of technology..."
+  },
+  {
+    "id": 11,
+    "coverPhoto": "https://miro.medium.com/v2/0*iUVczs9JPOecHrZX.jpeg",
+    "authorImage": "https://i.pravatar.cc/150?img=11",
+    "authorName": "Daniel Green",
+    "postedDate": "2025-08-11",
+    "title": "Understanding Docker and Containers",
+    "hashtags": ["#docker", "#devops", "#containers"],
+    "readingTime": "7 min read",
+    "description": "Docker has become a cornerstone of modern DevOps practices by simplifying application deployment and scaling..."
+  },
+  {
+    "id": 12,
+    "coverPhoto": "https://substackcdn.com/image/fetch/$s_!qpFy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F946d8fa4-b85d-4b3e-8608-3f560781e8c9_1600x990.png",
+    "authorImage": "https://i.pravatar.cc/150?img=12",
+    "authorName": "Ava Johnson",
+    "postedDate": "2025-08-12",
+    "title": "Kubernetes for Beginners",
+    "hashtags": ["#kubernetes", "#devops", "#cloud"],
+    "readingTime": "9 min read",
+    "description": "Kubernetes is an open-source platform designed to automate deploying, scaling, and operating containerized applications..."
+  }
+]
