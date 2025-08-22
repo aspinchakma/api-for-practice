@@ -8,6 +8,7 @@
     "batting": "Right-Hand-Bat",
     "bowling": "None",
     "biddingPrice": 95000,
+    "rating": 4,
     "about": "Virat Kohli, widely regarded as one of the best batsmen of his generation, has earned worldwide acclaim for his aggressive batting style, remarkable consistency, and incredible work ethic. Born in Delhi, India, he made his debut in international cricket in 2008 and quickly rose to prominence as a reliable middle-order batsman in all formats of the game. Known for his intense passion and hunger for runs, Kohli has broken numerous records, including fastest to reach several ODI milestones, and has led India to multiple significant victories as captain. His ability to chase big totals under pressure is legendary, earning him the nickname 'Chase Master'. Kohli’s batting technique is textbook, combining classical strokes with modern innovation. He excels in driving, pulling, and playing spin with finesse, while his fitness level and running between wickets set a benchmark for other players. Off the field, Kohli is a role model for young athletes, promoting fitness, discipline, and mental toughness. His philanthropic work, brand endorsements, and social media influence further amplify his global recognition. Despite criticism at times for his aggressive demeanor, Kohli’s dedication and determination to improve his game have made him a respected figure in cricket circles worldwide. Over the years, he has transformed from a talented youngster to an iconic leader, inspiring millions of fans with his performances and sportsmanship."
   },
   {
@@ -19,6 +20,7 @@
     "batting": "Right-Hand-Bat",
     "bowling": "None",
     "biddingPrice": 88000,
+    "rating": 5,
     "about": "Babar Azam, the elegant and technically gifted Pakistani batsman, is celebrated for his consistency, stylish stroke play, and ability to anchor innings across all formats of cricket. Since making his international debut in 2015, Babar has established himself as a cornerstone of Pakistan’s batting lineup. His classical approach, combined with modern scoring ability, allows him to excel against both pace and spin attacks. Babar is particularly noted for his cover drives, timing, and footwork, which are often highlighted in cricketing analyses. Apart from his batting prowess, he has assumed leadership responsibilities as captain, guiding Pakistan to notable victories and instilling confidence among younger players. Babar’s calm temperament and ability to handle pressure situations make him a dependable match-winner, whether chasing or setting a target. Off the field, he is respected for his professionalism, dedication to practice, and humble attitude despite immense fame. His approach to fitness, training, and mental preparation has set a high standard for aspiring cricketers. Over time, Babar Azam has become a global name in cricket, admired not only for runs but for his sportsmanship and leadership qualities, serving as an inspiration to many young players around the world."
   },
   {
@@ -30,6 +32,7 @@
     "batting": "Left-Hand-Bat",
     "bowling": "Right-arm",
     "biddingPrice": 97000,
+    "rating": 3,
     "about": "Ben Stokes, the explosive English all-rounder, is known for his game-changing performances with both bat and ball, combined with extraordinary athleticism and mental resilience. Born in New Zealand but raised in England, Stokes emerged as a prodigious talent in his teens, making his international debut in 2011. He has been pivotal in many memorable matches, including the 2019 ICC Cricket World Cup Final and the Ashes series, showcasing his ability to perform under immense pressure. As a left-handed batsman, Stokes is capable of both attacking and stabilizing an innings, playing elegant drives as well as powerful lofted shots. With his right-arm fast-medium bowling, he consistently provides breakthroughs for his team. Stokes’ fielding is equally remarkable, often turning matches with diving catches or agile stops. His approach to cricket reflects determination, resilience, and adaptability, overcoming injuries and personal challenges to maintain peak performance. Off the field, Stokes is admired for humility, charitable involvement, and mentoring young players. His influence on English cricket is profound, inspiring a generation with his fearless style, leadership qualities, and relentless pursuit of excellence across all formats."
   },
   {
@@ -41,6 +44,7 @@
     "batting": "Right-Hand-Bat",
     "bowling": "Right-arm",
     "biddingPrice": 91000,
+    "rating": 4,
     "about": "Kane Williamson, the composed and technically sound New Zealand batsman, is celebrated for his consistency, calm temperament, and leadership both on and off the field. Making his international debut in 2009, Williamson has become a linchpin in New Zealand’s batting lineup, admired for his classical technique and ability to adapt across formats. His cover drives, timing, and footwork are hallmarks of his style, enabling him to dominate both spin and pace attacks. As captain, Williamson has guided New Zealand to significant achievements, including the ICC World Test Championship and reaching the finals in global tournaments, often leading by example through performances and strategic acumen. Known for his humility, sportsmanship, and analytical approach to the game, he is respected worldwide. Williamson emphasizes discipline, mental toughness, and team cohesion, becoming a role model for young cricketers. His off-field contributions, including mentoring, charitable activities, and advocacy for the spirit of cricket, further enhance his reputation. Across formats, Williamson’s blend of elegance, patience, and tactical awareness has made him one of the finest batsmen of his era."
   },
   {
@@ -52,6 +56,7 @@
     "batting": "Left-Hand-Bat",
     "bowling": "Right-arm",
     "biddingPrice": 87000,
+    "rating": 4,
     "about": "David Warner, the explosive Australian opening batsman, is renowned for his aggressive stroke play, fearless approach, and ability to dominate bowling attacks across all formats. Making his debut in 2009, Warner quickly became a key figure in Australia’s batting order, famous for his attacking starts and capacity to set the tone of the innings. Known for his left-handed batting, Warner plays powerful drives, cuts, and pulls, combining flair with remarkable timing. His adaptability allows him to switch from aggressive T20 power hitting to building long Test innings when required. Beyond batting, Warner occasionally contributes with right-arm legbreak bowling and is known for energetic fielding, often saving crucial runs or taking remarkable catches. His journey has included overcoming personal setbacks, including controversies and injuries, to maintain world-class performance levels. Off the field, Warner is involved in mentoring, promoting fitness, and advocating team spirit, making him a respected figure in Australian and global cricket. His fearless approach, determination, and consistent performances have cemented his place among cricketing greats."
   },
   {
@@ -63,6 +68,7 @@
     "batting": "Right-Hand-Bat",
     "bowling": "Right-arm",
     "biddingPrice": 93000,
+    "rating": 5,
     "about": "Rashid Khan, the Afghan leg-spin maestro, is globally recognized for his sharp googlies, variations, and exceptional ability to take wickets in high-pressure situations. Born in 1998 in Afghanistan, Rashid rose to prominence at a young age due to his astonishing spin skills and accuracy. Despite his youth, he has become a cornerstone in Afghanistan’s national team, playing a pivotal role in T20 leagues around the world, including the IPL, Big Bash, and CPL. Rashid’s leg-spin is characterized by quick arm action, deceptive flight, and variations that confound even the best batsmen. Besides bowling, he is a handy lower-order batsman capable of finishing matches with swift scoring. His energy, confidence, and consistency on the field make him a match-winner, and he is often praised for his composure under pressure. Off the field, Rashid serves as an inspiration to young Afghan cricketers, symbolizing hope and international recognition for his country. His journey from a small town to global stardom demonstrates his dedication, discipline, and love for the game. With his unique skill set and tactical acumen, Rashid Khan has revolutionized modern spin bowling in limited-overs cricket."
   },
   {
@@ -74,6 +80,7 @@
     "batting": "Right-Hand-Bat",
     "bowling": "Right-arm",
     "biddingPrice": 98000,
+    "rating": 4,
     "about": "Jasprit Bumrah, the Indian fast bowler, is celebrated for his deadly yorkers, pinpoint accuracy, and unique action that makes him difficult for batsmen to read. Emerging from Gujarat, Bumrah made his international debut in 2016 and quickly established himself as a premier fast bowler in all formats. Known for his ability to bowl at the death with remarkable control, he is a key weapon in India’s bowling arsenal. His seam position, variations, and disciplined line and length make him exceptionally effective, particularly in T20 and ODI cricket. Bumrah also contributes with lower-order batting and athletic fielding. Beyond skills, his calm demeanor, mental toughness, and work ethic are widely admired, setting an example for younger players. He has played crucial roles in India’s victories, including overseas Test series wins and ICC tournaments. Off the field, Bumrah is involved in charitable initiatives and represents professionalism in cricket. His rise from domestic cricket to global stardom epitomizes talent, perseverance, and strategic mastery in modern fast bowling."
   },
   {
@@ -85,6 +92,7 @@
     "batting": "Right-Hand-Bat",
     "bowling": "Right-arm",
     "biddingPrice": 86000,
+    "rating": 3,
     "about": "AB de Villiers, the legendary South African batsman, is revered for his extraordinary versatility, improvisation, and ability to play shots all around the ground. Making his international debut in 2004, de Villiers gained fame as a dynamic batsman capable of dominating bowling attacks in all formats. Known as 'Mr. 360' for his ability to score runs in all directions, he combines timing, power, and innovation seamlessly. De Villiers also served as wicketkeeper and occasionally bowled medium pace, adding value as a genuine all-round contributor. His mental sharpness, adaptability, and leadership qualities helped South Africa achieve numerous victories on the global stage. Off the field, de Villiers is admired for his humility, philanthropy, and influence on young cricketers worldwide. His approach to fitness, training, and mental preparation has set benchmarks for modern batsmen. Over his illustrious career, de Villiers’ combination of elegance, aggression, and strategic acumen earned him respect and adoration from fans across the cricketing world."
   },
   {
@@ -96,6 +104,7 @@
     "batting": "Right-Hand-Bat",
     "bowling": "Right-arm",
     "biddingPrice": 94000,
+    "rating": 4,
     "about": "Steve Smith, the Australian batting maestro, is renowned for his unorthodox technique, immense concentration, and match-winning ability in Test cricket. Making his debut in 2010, Smith has evolved from a leg-spinner into a world-class batsman, consistently scoring runs against the best bowling attacks globally. His hand-eye coordination, balance, and ability to rotate strike efficiently make him a formidable opponent. Smith’s leadership experience includes captaining Australia and guiding young players with insight. His mental toughness, fitness, and relentless work ethic have set new standards for modern cricketers. Off the field, Smith is respected for his discipline, humility, and contributions to cricketing education and mentoring. Over his career, he has demonstrated an extraordinary capacity to adapt and excel, cementing his place among the elite batsmen in cricket history."
   },
   {
@@ -107,6 +116,7 @@
     "batting": "Left-Hand-Bat",
     "bowling": "Left-arm",
     "biddingPrice": 96000,
+    "rating": 5,
     "about": "Shakib Al Hasan, Bangladesh’s premier all-rounder, is recognized for his consistency with both bat and ball, tactical acumen, and leadership skills. Debuting internationally in 2006, Shakib has been central to Bangladesh’s rise in world cricket. His left-handed batting allows him to anchor innings or accelerate scoring as needed, while his left-arm spin provides crucial breakthroughs. Shakib’s fielding and game awareness make him a complete cricketer. Off the field, he is a role model for discipline, fitness, and professionalism. His contributions have inspired young Bangladeshi cricketers and elevated the team’s performance on the international stage."
   },
   {
@@ -118,6 +128,7 @@
     "batting": "Right-Hand-Bat",
     "bowling": "None",
     "biddingPrice": 89000,
+    "rating": 5,
     "about": "Jos Buttler, the explosive English wicket-keeper batsman, is celebrated for his innovative stroke play, aggressive scoring, and crucial match-finishing abilities. Debuting in 2011, Buttler has transformed England’s limited-overs cricket with his dynamic batting style. Known for his quick reflexes behind the stumps and fearless approach in batting, he can dominate any bowling attack. Buttler’s adaptability allows him to anchor innings or accelerate depending on match situations. Off the field, he is admired for professionalism, fitness, and mentoring younger players, contributing significantly to England’s modern cricket success."
   },
   {
@@ -129,6 +140,7 @@
     "batting": "Left-Hand-Bat",
     "bowling": "None",
     "biddingPrice": 92000,
+    "rating": 4,
     "about": "Quinton de Kock, South Africa’s agile wicket-keeper batsman, is known for explosive batting, sharp wicket-keeping skills, and match-winning performances. Debuting in 2012, de Kock has excelled in all formats, particularly in limited-overs cricket. His attacking stroke play and ability to finish games under pressure make him invaluable. As a wicket-keeper, his reflexes and agility are top-class. Off the field, de Kock is respected for discipline, professionalism, and contribution to team strategy, inspiring young cricketers globally."
   }
 ]
