@@ -23,8 +23,8 @@ https://aspinchakma.github.io/api-for-practice/players.json
 ```javascript
 https://aspinchakma.github.io/api-for-practice/watches.json
 ```
-
-
+### Examples
+-**[Select XI Project Using Players JSON](https://select-your-xi-react-tailwind.netlify.app/)**
 ## Support
 
 Contribute to help new learner. 
