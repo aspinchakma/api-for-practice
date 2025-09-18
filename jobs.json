@@ -1,0 +1,633 @@
+[
+  {
+    "id": "1",
+    "name": "TechNova Solutions",
+    "logo": "https://i.ibb.co.com/6JgZmxyS/1.jpg",
+    "location": "San Francisco, CA",
+    "website": "https://technova.com",
+    "industry": "Software Development",
+    "jobs": [
+      {
+        "id": "job-001",
+        "title": "Frontend Developer",
+        "bannerImage": "https://i.ibb.co.com/Y7gVF33Q/1-1.png",
+        "location": "Remote",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Develop responsive user interfaces using React.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React.js",
+          "Knowledge of REST APIs",
+          "Responsive design skills"
+        ]
+      },
+      {
+        "id": "job-002",
+        "title": "Backend Engineer",
+        "bannerImage": "https://i.ibb.co.com/tTGWG6YJ/1-2.png",
+        "location": "San Francisco, CA",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Build scalable backend services.",
+        "requirements": [
+          "Node.js, Express",
+          "Database knowledge (MongoDB/Postgres)",
+          "API design and integration"
+        ]
+      },
+      {
+        "id": "job-003",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/XxCty7Kx/1-3.jpg",
+        "location": "Remote",
+        "salary": "$85,000 - $110,000",
+        "jobType": "Full-time",
+        "description": "Manage CI/CD pipelines and cloud infrastructure.",
+        "requirements": [
+          "AWS/Azure knowledge",
+          "Docker, Kubernetes",
+          "CI/CD tools like Jenkins"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "GreenLeaf Marketing",
+    "logo": "https://i.ibb.co.com/BVM7Fq5M/2.jpg",
+    "location": "New York, NY",
+    "website": "https://greenleafmarketing.com",
+    "industry": "Digital Marketing",
+    "jobs": [
+      {
+        "id": "job-004",
+        "title": "SEO Specialist",
+        "bannerImage": "https://i.ibb.co.com/HDxFyJYh/4.webp",
+        "location": "Remote",
+        "salary": "$50,000 - $70,000",
+        "jobType": "Full-time",
+        "description": "Optimize websites for search engines.",
+        "requirements": [
+          "Strong knowledge of SEO tools",
+          "Experience with Google Analytics",
+          "Keyword research skills"
+        ]
+      },
+      {
+        "id": "job-005",
+        "title": "Content Strategist",
+        "bannerImage": "https://i.ibb.co.com/KzXYvYkb/55555.jpg",
+        "location": "New York, NY",
+        "salary": "$55,000 - $75,000",
+        "jobType": "Full-time",
+        "description": "Plan and manage content strategy.",
+        "requirements": [
+          "Excellent writing skills",
+          "Knowledge of CMS",
+          "SEO and digital marketing knowledge"
+        ]
+      },
+      {
+        "id": "job-006",
+        "title": "Social Media Manager",
+        "bannerImage": "https://i.ibb.co.com/8gDDL37G/6.webp",
+        "location": "Remote",
+        "salary": "$45,000 - $65,000",
+        "jobType": "Full-time",
+        "description": "Manage brand presence across social platforms.",
+        "requirements": [
+          "Strong knowledge of social platforms",
+          "Content creation skills",
+          "Analytics and reporting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "FinCore BankTech",
+    "logo": "https://i.ibb.co.com/XHGgyRG/3.png",
+    "location": "Chicago, IL",
+    "website": "https://fincorebank.com",
+    "industry": "Fintech",
+    "jobs": [
+      {
+        "id": "job-007",
+        "title": "Data Analyst",
+        "bannerImage": "https://i.ibb.co.com/ns06Bq3N/7.jpg",
+        "location": "Chicago, IL",
+        "salary": "$75,000 - $95,000",
+        "jobType": "Full-time",
+        "description": "Analyze financial datasets and provide insights.",
+        "requirements": [
+          "SQL and Python skills",
+          "Data visualization (Tableau/PowerBI)",
+          "Statistical knowledge"
+        ]
+      },
+      {
+        "id": "job-008",
+        "title": "Cybersecurity Engineer",
+        "bannerImage": "https://i.ibb.co.com/RTKRGb1G/8.jpg",
+        "location": "Remote",
+        "salary": "$100,000 - $130,000",
+        "jobType": "Full-time",
+        "description": "Secure banking applications.",
+        "requirements": [
+          "Experience with firewalls and IDS",
+          "Knowledge of encryption standards",
+          "Cloud security skills"
+        ]
+      },
+      {
+        "id": "job-009",
+        "title": "Mobile App Developer",
+        "bannerImage": "https://i.ibb.co.com/xSwrwDvP/9.png",
+        "location": "Remote",
+        "salary": "$85,000 - $115,000",
+        "jobType": "Full-time",
+        "description": "Develop mobile banking applications.",
+        "requirements": [
+          "React Native/Flutter",
+          "Experience in API integration",
+          "UI/UX knowledge"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "EduSmart Academy",
+    "logo": "https://i.ibb.co.com/0VjGZPx2/4.jpg",
+    "location": "Austin, TX",
+    "website": "https://edusmartacademy.com",
+    "industry": "E-Learning",
+    "jobs": [
+      {
+        "id": "job-010",
+        "title": "Content Writer",
+        "bannerImage": "https://i.ibb.co.com/chbGZ07n/10.jpg",
+        "location": "Remote",
+        "salary": "$40,000 - $55,000",
+        "jobType": "Part-time",
+        "description": "Write engaging educational content.",
+        "requirements": [
+          "Excellent writing skills",
+          "SEO knowledge",
+          "Experience with LMS"
+        ]
+      },
+      {
+        "id": "job-011",
+        "title": "Instructional Designer",
+        "bannerImage": "https://i.ibb.co.com/mV7sm3Gy/11.jpg",
+        "location": "Austin, TX",
+        "salary": "$60,000 - $80,000",
+        "jobType": "Full-time",
+        "description": "Design course materials for online learning.",
+        "requirements": [
+          "Knowledge of pedagogy",
+          "Experience with e-learning tools",
+          "Creativity in content creation"
+        ]
+      },
+      {
+        "id": "job-012",
+        "title": "Video Editor",
+        "bannerImage": "https://i.ibb.co.com/kVTHf4x9/12.webp",
+        "location": "Remote",
+        "salary": "$50,000 - $65,000",
+        "jobType": "Full-time",
+        "description": "Edit educational videos for courses.",
+        "requirements": [
+          "Experience with Adobe Premiere/After Effects",
+          "Storytelling skills",
+          "Attention to detail"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "MediCore Health",
+    "logo": "https://i.ibb.co.com/DD5DjP4L/5-ultra.png",
+    "location": "Los Angeles, CA",
+    "website": "https://medicorehealth.com",
+    "industry": "Healthcare",
+    "jobs": [
+      {
+        "id": "job-013",
+        "title": "Healthcare Consultant",
+        "bannerImage": "https://i.ibb.co.com/Xf1sWfnT/13.png",
+        "location": "Los Angeles, CA",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Advise hospitals on digital healthcare.",
+        "requirements": [
+          "Healthcare industry knowledge",
+          "Strong communication skills",
+          "Experience in consulting"
+        ]
+      },
+      {
+        "id": "job-014",
+        "title": "Medical Data Scientist",
+        "bannerImage": "https://i.ibb.co.com/3YsbNYnd/14.webp",
+        "location": "Remote",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Analyze healthcare data to improve services.",
+        "requirements": [
+          "Python, R, SQL",
+          "Machine learning skills",
+          "Healthcare dataset knowledge"
+        ]
+      },
+      {
+        "id": "job-015",
+        "title": "Clinical Researcher",
+        "bannerImage": "https://i.ibb.co.com/C3jYVqn8/15.jpg",
+        "location": "Los Angeles, CA",
+        "salary": "$70,000 - $95,000",
+        "jobType": "Full-time",
+        "description": "Conduct clinical trials and research.",
+        "requirements": [
+          "Degree in Life Sciences",
+          "Research methodology knowledge",
+          "Attention to detail"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "AgroFuture Farms",
+    "logo": "https://i.ibb.co.com/jkbrm3hy/6.jpg",
+    "location": "Dallas, TX",
+    "website": "https://agrofuture.com",
+    "industry": "Agriculture Technology",
+    "jobs": [
+      {
+        "id": "job-016",
+        "title": "Agricultural Engineer",
+        "bannerImage": "https://i.ibb.co.com/HJMWy6z/16.jpg",
+        "location": "Dallas, TX",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "description": "Design and develop smart farming solutions.",
+        "requirements": [
+          "Degree in Agricultural Engineering",
+          "Knowledge of IoT in farming",
+          "Strong problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-017",
+        "title": "Supply Chain Manager",
+        "bannerImage": "https://i.ibb.co.com/7dcfHw8t/17.jpg",
+        "location": "Remote",
+        "salary": "$80,000 - $105,000",
+        "jobType": "Full-time",
+        "description": "Oversee distribution and logistics in agriculture.",
+        "requirements": [
+          "Supply chain management experience",
+          "Excellent leadership skills",
+          "Data-driven decision making"
+        ]
+      },
+      {
+        "id": "job-018",
+        "title": "Field Technician",
+        "bannerImage": "https://i.ibb.co.com/Fb73kj17/18.png",
+        "location": "Dallas, TX",
+        "salary": "$45,000 - $60,000",
+        "jobType": "Full-time",
+        "description": "Maintain and repair farm automation tools.",
+        "requirements": [
+          "Technical knowledge of sensors and tools",
+          "Ability to work outdoors",
+          "Problem-solving mindset"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "PixelWave Studios",
+    "logo": "https://i.ibb.co.com/LzMkPr8w/7.jpg",
+    "location": "Seattle, WA",
+    "website": "https://pixelwave.com",
+    "industry": "Game Development",
+    "jobs": [
+      {
+        "id": "job-019",
+        "title": "Game Designer",
+        "bannerImage": "https://i.ibb.co.com/n8s3bmgV/19.jpg",
+        "location": "Seattle, WA",
+        "salary": "$75,000 - $95,000",
+        "jobType": "Full-time",
+        "description": "Create innovative game concepts and levels.",
+        "requirements": [
+          "Experience with Unity/Unreal Engine",
+          "Creative storytelling skills",
+          "Team collaboration"
+        ]
+      },
+      {
+        "id": "job-020",
+        "title": "3D Artist",
+        "bannerImage": "https://i.ibb.co.com/8gvCbjwF/20.jpg",
+        "location": "Remote",
+        "salary": "$65,000 - $85,000",
+        "jobType": "Full-time",
+        "description": "Design 3D characters and environments.",
+        "requirements": [
+          "Proficiency in Blender/Maya",
+          "Strong portfolio of 3D models",
+          "Knowledge of textures and lighting"
+        ]
+      },
+      {
+        "id": "job-021",
+        "title": "QA Tester",
+        "bannerImage": "https://i.ibb.co.com/6JcWgMhG/21.jpg",
+        "location": "Remote",
+        "salary": "$40,000 - $55,000",
+        "jobType": "Full-time",
+        "description": "Test games for bugs and performance issues.",
+        "requirements": [
+          "Attention to detail",
+          "Experience in software testing",
+          "Good communication skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "EcoBuild Constructions",
+    "logo": "https://i.ibb.co.com/Nn6qxbFZ/8.png",
+    "location": "Denver, CO",
+    "website": "https://ecobuild.com",
+    "industry": "Construction",
+    "jobs": [
+      {
+        "id": "job-022",
+        "title": "Civil Engineer",
+        "bannerImage": "https://i.ibb.co.com/7tkRrh9Y/22.webp",
+        "location": "Denver, CO",
+        "salary": "$85,000 - $110,000",
+        "jobType": "Full-time",
+        "description": "Plan and supervise construction projects.",
+        "requirements": [
+          "Degree in Civil Engineering",
+          "Project management skills",
+          "Knowledge of AutoCAD"
+        ]
+      },
+      {
+        "id": "job-023",
+        "title": "Project Manager",
+        "bannerImage": "https://i.ibb.co.com/TMYsj45T/23.jpg",
+        "location": "Denver, CO",
+        "salary": "$95,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Oversee multiple construction projects.",
+        "requirements": [
+          "Leadership and planning skills",
+          "Experience in construction industry",
+          "Budget management"
+        ]
+      },
+      {
+        "id": "job-024",
+        "title": "Safety Officer",
+        "bannerImage": "https://i.ibb.co.com/k622SqMn/24.jpg",
+        "location": "Remote",
+        "salary": "$55,000 - $70,000",
+        "jobType": "Full-time",
+        "description": "Ensure workplace safety compliance.",
+        "requirements": [
+          "Knowledge of OSHA regulations",
+          "Experience in safety training",
+          "Strong communication skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "AeroLink Airlines",
+    "logo": "https://i.ibb.co.com/whWy42MR/9.jpg",
+    "location": "Miami, FL",
+    "website": "https://aerolink.com",
+    "industry": "Aviation",
+    "jobs": [
+      {
+        "id": "job-025",
+        "title": "Flight Attendant",
+        "bannerImage": "https://i.ibb.co.com/GQT35wR6/25.jpg",
+        "location": "Miami, FL",
+        "salary": "$45,000 - $65,000",
+        "jobType": "Full-time",
+        "description": "Provide excellent in-flight service.",
+        "requirements": [
+          "Customer service skills",
+          "Safety training certification",
+          "Flexibility to travel"
+        ]
+      },
+      {
+        "id": "job-026",
+        "title": "Pilot",
+        "bannerImage": "https://i.ibb.co.com/GzLd0KZ/26.webp",
+        "location": "Miami, FL",
+        "salary": "$120,000 - $150,000",
+        "jobType": "Full-time",
+        "description": "Operate and navigate aircraft safely.",
+        "requirements": [
+          "Commercial Pilot License",
+          "Strong decision-making skills",
+          "Excellent communication"
+        ]
+      },
+      {
+        "id": "job-027",
+        "title": "Aircraft Mechanic",
+        "bannerImage": "https://i.ibb.co.com/tMzk17nZ/27.webp",
+        "location": "Miami, FL",
+        "salary": "$60,000 - $80,000",
+        "jobType": "Full-time",
+        "description": "Maintain and repair aircraft systems.",
+        "requirements": [
+          "Technical certification in aviation",
+          "Attention to detail",
+          "Experience in aircraft maintenance"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "ByteSecure CyberLabs",
+    "logo": "https://i.ibb.co.com/KxSzS2w2/10.png",
+    "location": "Boston, MA",
+    "website": "https://bytesecure.com",
+    "industry": "Cybersecurity",
+    "jobs": [
+      {
+        "id": "job-028",
+        "title": "Security Analyst",
+        "bannerImage": "https://i.ibb.co.com/39GmsPrR/28.webp",
+        "location": "Remote",
+        "salary": "$80,000 - $105,000",
+        "jobType": "Full-time",
+        "description": "Monitor and detect security incidents.",
+        "requirements": [
+          "SIEM tools knowledge",
+          "Incident response skills",
+          "Good problem-solving"
+        ]
+      },
+      {
+        "id": "job-029",
+        "title": "Penetration Tester",
+        "bannerImage": "https://i.ibb.co.com/k6DV7ZVF/29.jpg",
+        "location": "Boston, MA",
+        "salary": "$95,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Conduct penetration testing on systems.",
+        "requirements": [
+          "Knowledge of Kali Linux tools",
+          "Experience with network security",
+          "Strong ethical hacking skills"
+        ]
+      },
+      {
+        "id": "job-030",
+        "title": "Cloud Security Specialist",
+        "bannerImage": "https://i.ibb.co.com/QFHqNLjW/30.jpg",
+        "location": "Remote",
+        "salary": "$100,000 - $135,000",
+        "jobType": "Full-time",
+        "description": "Secure cloud infrastructure for clients.",
+        "requirements": [
+          "AWS/Azure security expertise",
+          "IAM and encryption knowledge",
+          "Problem-solving mindset"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Microsoft Corporation",
+    "logo": "https://i.ibb.co.com/HJJ0fMX/11.jpg",
+    "location": "Redmond, WA, USA",
+    "website": "https://microsoft.com",
+    "industry": "Technology",
+    "jobs": [
+      {
+        "id": "job-031",
+        "title": "Software Engineer",
+        "bannerImage": "https://i.ibb.co.com/sprdKWKr/31.jpg",
+        "location": "Redmond, WA",
+        "salary": "$110,000 - $140,000",
+        "jobType": "Full-time",
+        "description": "Design, develop, and optimize software solutions across Microsoft products.",
+        "requirements": [
+          "Strong skills in C#, .NET, or Java",
+          "Experience with cloud platforms like Azure",
+          "Problem-solving and debugging skills",
+          "Team collaboration experience"
+        ]
+      },
+      {
+        "id": "job-032",
+        "title": "Cloud Solutions Architect",
+        "bannerImage": "https://i.ibb.co.com/1tJMX7ZG/32.jpg",
+        "location": "Remote",
+        "salary": "$130,000 - $160,000",
+        "jobType": "Full-time",
+        "description": "Work with clients to design and implement scalable cloud solutions using Azure.",
+        "requirements": [
+          "In-depth knowledge of Azure services",
+          "Experience with containerization (Docker/Kubernetes)",
+          "Strong communication and consulting skills",
+          "Ability to create secure, scalable architectures"
+        ]
+      },
+      {
+        "id": "job-033",
+        "title": "AI Research Scientist",
+        "bannerImage": "https://i.ibb.co.com/Z1TMQYz0/33.jpg",
+        "location": "Redmond, WA",
+        "salary": "$150,000 - $190,000",
+        "jobType": "Full-time",
+        "description": "Conduct cutting-edge research in artificial intelligence and machine learning.",
+        "requirements": [
+          "PhD or equivalent experience in AI/ML",
+          "Strong programming skills in Python",
+          "Experience with deep learning frameworks (TensorFlow, PyTorch)",
+          "Published research papers preferred"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Google LLC",
+    "logo": "https://i.ibb.co.com/qMTW6qz5/12.jpg",
+    "location": "Mountain View, CA, USA",
+    "website": "https://google.com",
+    "industry": "Technology",
+    "jobs": [
+      {
+        "id": "job-034",
+        "title": "Frontend Engineer",
+        "bannerImage": "https://i.ibb.co.com/PsxKS4Gn/34.jpg",
+        "location": "Mountain View, CA",
+        "salary": "$120,000 - $150,000",
+        "jobType": "Full-time",
+        "description": "Develop next-generation user interfaces for Google products.",
+        "requirements": [
+          "Proficiency in JavaScript, TypeScript, React",
+          "Experience with performance optimization",
+          "Strong knowledge of UX/UI principles",
+          "Team collaboration skills"
+        ]
+      },
+      {
+        "id": "job-035",
+        "title": "Data Scientist",
+        "bannerImage": "https://i.ibb.co.com/mYryP73/35.jpg",
+        "location": "Remote",
+        "salary": "$130,000 - $170,000",
+        "jobType": "Full-time",
+        "description": "Analyze data at scale to drive insights across Google’s ecosystem.",
+        "requirements": [
+          "Expertise in Python, SQL, R",
+          "Machine learning and statistical modeling skills",
+          "Experience with BigQuery or similar tools",
+          "Ability to communicate insights effectively"
+        ]
+      },
+      {
+        "id": "job-036",
+        "title": "Product Manager",
+        "bannerImage": "https://i.ibb.co.com/sJPZXJQX/36.jpg",
+        "location": "Mountain View, CA",
+        "salary": "$140,000 - $180,000",
+        "jobType": "Full-time",
+        "description": "Lead product development cycles and define strategy for Google products.",
+        "requirements": [
+          "Experience in product management",
+          "Strong communication and leadership skills",
+          "Technical background in software or hardware",
+          "Ability to define product roadmaps"
+        ]
+      }
+    ]
+  }
+]
