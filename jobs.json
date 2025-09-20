@@ -6,6 +6,7 @@
     "location": "San Francisco, CA",
     "website": "https://technova.com",
     "industry": "Software Development",
+     "about": "TechNova Solutions, based in San Francisco, CA, is a leading software development company delivering innovative and scalable digital solutions. The company specializes in frontend and backend development, cloud integration, and DevOps services. Their team of experienced professionals focuses on creating user-friendly, secure, and high-performance applications for startups, mid-sized companies, and large enterprises. By combining agile methodologies with cutting-edge technologies, TechNova ensures timely project delivery and continuous improvement. The company actively explores AI, machine learning, and IoT to stay ahead of technology trends. With a strong culture of collaboration, creativity, and client-focused solutions, TechNova Solutions has become a trusted partner for businesses seeking robust software solutions that enhance efficiency, productivity, and growth.",
     "jobs": [
       {
         "id": "job-001",
@@ -59,6 +60,8 @@
     "location": "New York, NY",
     "website": "https://greenleafmarketing.com",
     "industry": "Digital Marketing",
+    
+    "about": "GreenLeaf Marketing, based in New York, NY, is a full-service digital marketing agency focused on helping businesses build a strong online presence. They specialize in SEO, content marketing, social media management, brand strategy, and digital advertising. Their team combines creativity with analytics to craft campaigns that engage audiences, boost conversions, and maximize ROI. GreenLeaf Marketing emphasizes understanding client goals and tailoring strategies to meet specific business needs. The agency leverages modern marketing tools, data insights, and performance metrics to ensure continuous optimization. With a client-centric approach, dedication to innovation, and commitment to measurable results, GreenLeaf Marketing has earned a reputation as a reliable partner for organizations aiming to grow digitally and strengthen their brand presence across multiple platforms.",
     "jobs": [
       {
         "id": "job-004",
@@ -111,6 +114,7 @@
     "location": "Chicago, IL",
     "website": "https://fincorebank.com",
     "industry": "Fintech",
+    "about": "FinCore BankTech, located in Chicago, IL, is a fintech company dedicated to delivering advanced software solutions for the financial industry. They focus on secure, scalable, and innovative platforms that streamline banking operations, data analytics, mobile applications, and backend services. Their expert team of developers and financial technologists works to enhance operational efficiency, improve customer experience, and ensure compliance with regulatory standards. By integrating cloud computing, AI, and automation, FinCore BankTech provides cutting-edge solutions that enable financial institutions to remain competitive in the modern digital economy. The company is committed to innovation, security, and long-term client partnerships, earning recognition as a trusted technology partner for banks, fintech firms, and financial organizations worldwide.",
     "jobs": [
       {
         "id": "job-007",
@@ -163,6 +167,7 @@
     "location": "Austin, TX",
     "website": "https://edusmartacademy.com",
     "industry": "E-Learning",
+    "about": "EduSmart Academy, based in Austin, TX, is an innovative e-learning organization committed to delivering high-quality educational content and online learning solutions. They specialize in course design, instructional content, multimedia production, and learning management systems. EduSmart Academy combines modern pedagogical approaches with advanced technology to provide interactive, engaging, and accessible learning experiences for students and professionals. Their team of educators, designers, and content creators works collaboratively to develop courses tailored to different learning styles and skill levels. The company also emphasizes creativity, critical thinking, and continuous improvement, ensuring learners gain valuable knowledge and practical skills. With a focus on innovation, quality, and learner engagement, EduSmart Academy empowers individuals to achieve educational and career goals efficiently and effectively.",
     "jobs": [
       {
         "id": "job-010",
@@ -215,6 +220,7 @@
     "location": "Los Angeles, CA",
     "website": "https://medicorehealth.com",
     "industry": "Healthcare",
+    "about": "MediCore Health, headquartered in Los Angeles, CA, is a leading healthcare consultancy and technology solutions provider. The company focuses on optimizing clinical operations, improving patient care, and supporting data-driven healthcare decisions. Their services include healthcare analytics, research, digital health solutions, and advisory services for hospitals, clinics, and healthcare organizations. MediCore Health combines deep domain expertise with advanced analytics and machine learning to deliver actionable insights that enhance operational efficiency and patient outcomes. The team is committed to quality, compliance, and innovation, ensuring safe and effective healthcare practices. Through collaboration, technology, and a patient-centered approach, MediCore Health empowers healthcare organizations to achieve excellence and drive continuous improvement in medical services and processes.",
     "jobs": [
       {
         "id": "job-013",
@@ -267,6 +273,7 @@
     "location": "Dallas, TX",
     "website": "https://agrofuture.com",
     "industry": "Agriculture Technology",
+    "about": "AgroFuture Farms, based in Dallas, TX, is a pioneering agriculture technology company that focuses on modernizing farming practices through smart solutions. The company offers IoT-enabled devices, automated irrigation, precision agriculture, and sustainable farming solutions designed to optimize crop yields and reduce environmental impact. AgroFuture Farms integrates technology with data analytics to provide farmers actionable insights for efficient resource management. Their team of engineers, agronomists, and technicians collaborates to create innovative tools that improve productivity and sustainability. The company also emphasizes education, supporting farmers in adopting modern agricultural techniques. Committed to innovation, quality, and sustainability, AgroFuture Farms is transforming the agriculture sector by making farming smarter, more efficient, and environmentally responsible.",
     "jobs": [
       {
         "id": "job-016",
@@ -319,6 +326,7 @@
     "location": "Seattle, WA",
     "website": "https://pixelwave.com",
     "industry": "Game Development",
+     "about": "PixelWave Studios, headquartered in Seattle, WA, is a premier game development company creating immersive and engaging gaming experiences. They specialize in 3D game design, interactive storytelling, character modeling, and level creation. Their team combines creativity, technical expertise, and innovative design principles to deliver high-quality games across multiple platforms. PixelWave Studios emphasizes quality assurance, performance optimization, and player engagement to ensure smooth, captivating gameplay. They leverage modern game engines such as Unity and Unreal Engine to develop innovative projects. With a culture of collaboration and creativity, PixelWave Studios is committed to delivering entertainment experiences that are visually stunning, enjoyable, and memorable, establishing themselves as leaders in the gaming industry.",
     "jobs": [
       {
         "id": "job-019",
@@ -371,6 +379,7 @@
     "location": "Denver, CO",
     "website": "https://ecobuild.com",
     "industry": "Construction",
+    "about": "EcoBuild Constructions, based in Denver, CO, is a modern construction company specializing in sustainable, efficient, and eco-friendly building solutions. They provide residential, commercial, and industrial construction services with a focus on quality craftsmanship and environmental responsibility. The company integrates advanced engineering techniques, innovative materials, and skilled project management to deliver buildings that meet client expectations and industry standards. EcoBuild Constructions emphasizes green building practices, energy efficiency, and safety compliance throughout every project. Their team of architects, engineers, and construction specialists work collaboratively to ensure timely completion, superior quality, and minimal environmental impact. With a commitment to innovation, reliability, and client satisfaction, EcoBuild Constructions has become a trusted partner in delivering sustainable and high-quality construction projects.",
     "jobs": [
       {
         "id": "job-022",
@@ -423,6 +432,7 @@
     "location": "Miami, FL",
     "website": "https://aerolink.com",
     "industry": "Aviation",
+    "about": "AeroLink Airlines, headquartered in Miami, FL, is a full-service airline committed to providing safe, reliable, and customer-focused air travel. Operating both domestic and international routes, AeroLink Airlines emphasizes passenger comfort, operational efficiency, and exceptional service. The company invests in modern aircraft, advanced navigation systems, and a highly trained crew to ensure safety and reliability. Their customer-centric approach includes loyalty programs, seamless booking, and quality in-flight experiences. AeroLink Airlines also focuses on sustainability by implementing fuel-efficient practices and eco-friendly initiatives. With a strong emphasis on regulatory compliance, continuous improvement, and operational excellence, AeroLink Airlines has established itself as a trusted carrier delivering exceptional travel experiences to millions of passengers annually.",
     "jobs": [
       {
         "id": "job-025",
@@ -475,6 +485,7 @@
     "location": "Boston, MA",
     "website": "https://bytesecure.com",
     "industry": "Cybersecurity",
+     "about": "ByteSecure CyberLabs, based in Boston, MA, is a leading cybersecurity firm specializing in protecting digital infrastructures from emerging threats. They provide services such as penetration testing, security monitoring, cloud security, and incident response. The company employs a team of skilled security analysts and ethical hackers dedicated to safeguarding client systems and data. ByteSecure CyberLabs integrates advanced technologies, real-time analytics, and proactive strategies to detect and mitigate potential security risks. Their commitment to client security, continuous research, and compliance with industry standards ensures reliable protection for businesses of all sizes. By combining technical expertise with innovative cybersecurity solutions, ByteSecure CyberLabs helps organizations build resilient, secure, and trustworthy digital environments.",
     "jobs": [
       {
         "id": "job-028",
@@ -527,6 +538,7 @@
     "location": "Redmond, WA, USA",
     "website": "https://microsoft.com",
     "industry": "Technology",
+    "about": "Microsoft Corporation, headquartered in Redmond, WA, is one of the world's leading technology companies, known for software, hardware, and cloud services. The company develops, licenses, and supports a wide range of products including Windows OS, Microsoft Office, Azure cloud services, and gaming platforms like Xbox. Microsoft focuses on innovation in AI, cloud computing, productivity tools, and enterprise solutions to empower individuals and organizations globally. Their culture emphasizes research, sustainability, and inclusive growth while driving technological advancement. With a commitment to security, accessibility, and customer satisfaction, Microsoft continues to lead in software development, cloud infrastructure, and digital transformation initiatives, supporting millions of users worldwide.",
     "jobs": [
       {
         "id": "job-031",
@@ -582,6 +594,7 @@
     "location": "Mountain View, CA, USA",
     "website": "https://google.com",
     "industry": "Technology",
+    "about": "Google LLC, headquartered in Mountain View, CA, is a global technology leader specializing in internet-related services and products. Google offers search engines, online advertising platforms, cloud computing, software, and hardware devices. The company is renowned for its innovation in AI, machine learning, and data-driven solutions that enhance user experiences and business productivity. Google also focuses on initiatives in sustainability, open-source projects, and global accessibility of information. With a culture of creativity, experimentation, and technological excellence, Google continues to shape the digital world by delivering products and services that impact billions of people, making information universally accessible and useful.",
     "jobs": [
       {
         "id": "job-034",
