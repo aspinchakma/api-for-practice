@@ -8,7 +8,7 @@
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
     "badge": "Popular",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "typescript",
@@ -19,7 +19,7 @@
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Essential",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "nodejs",
@@ -30,7 +30,7 @@
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Fast",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "express",
@@ -41,7 +41,7 @@
     "rating": 4.7,
     "difficulty": "Beginner-Friendly",
     "badge": "Popular",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "mongodb",
@@ -52,7 +52,7 @@
     "rating": 4.7,
     "difficulty": "Intermediate",
     "badge": "Flexible",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "postgresql",
@@ -63,7 +63,7 @@
     "rating": 4.9,
     "difficulty": "Intermediate",
     "badge": "Top SQL",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "tailwindcss",
@@ -74,7 +74,7 @@
     "rating": 4.8,
     "difficulty": "Beginner-Friendly",
     "badge": "Trending",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "docker",
@@ -85,7 +85,7 @@
     "rating": 4.8,
     "difficulty": "Advanced",
     "badge": "Containers",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "github",
@@ -96,7 +96,7 @@
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
     "badge": "Essential",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "vite",
@@ -107,7 +107,7 @@
     "rating": 4.8,
     "difficulty": "Beginner-Friendly",
     "badge": "Fast",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "nextjs",
@@ -118,7 +118,7 @@
     "rating": 4.9,
     "difficulty": "Intermediate",
     "badge": "Full-Stack",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "firebase",
@@ -129,7 +129,7 @@
     "rating": 4.7,
     "difficulty": "Beginner-Friendly",
     "badge": "BaaS",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "redux",
@@ -140,7 +140,7 @@
     "rating": 4.6,
     "difficulty": "Intermediate",
     "badge": "State",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "nginx",
@@ -151,7 +151,7 @@
     "rating": 4.8,
     "difficulty": "Advanced",
     "badge": "Server",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": "figma",
@@ -162,6 +162,6 @@
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
     "badge": "Design",
-    "isSelected": true
+    "isSelected": false
   }
 ]
